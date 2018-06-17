@@ -1,0 +1,14 @@
+{
+    "params": {
+        "products": [
+            {
+                "name": "Product 1",
+                "id": 100234,
+                "quantity": 2.0
+            }
+        ],
+        "signature": "9c7348a8b2d4695915b0299db2c5e6eaba5d6fd54f722ea159a04e22cb06f5c4",
+        "algorithm": "SHA-256",
+        "sender": 990779392
+    }
+}
